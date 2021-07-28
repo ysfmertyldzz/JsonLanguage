@@ -1,0 +1,4 @@
+{
+	"playButton":"11515145155",
+	"exitButton":"ÇýkýþEsp"
+}
